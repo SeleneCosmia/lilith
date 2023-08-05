@@ -10,6 +10,7 @@
 Once I am able I intend to do the following:
 
 - [ ] Update the code-base to Crystal v1.10.* (or later)
+- [ ] Determine whether the parts coded in C can now be transitioned into crystal, and if so, update it accordingly
 - [ ] Rewrite the window manager and:
   - [ ] Transition it to Wayland <sup>maybe?</sup>
   - [ ] Allow configuration in lua or another similarly easy to use scripting lang
