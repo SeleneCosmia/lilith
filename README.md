@@ -14,6 +14,7 @@ Once I am able I intend to do the following:
   - [ ] Transition it to Wayland <sup>maybe?</sup>
   - [ ] Allow configuration in lua or another similarly easy to use scripting lang
 - [ ] Write a shell in crystal to support the os with [fish-shell](https://fishshell.com) like features
+- [ ] and other features yet to be determined...
 
 
 
