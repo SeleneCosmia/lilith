@@ -60,4 +60,4 @@ make rungdb_img
 
 ## License
 
-Lilith is licensed under MIT. See LICENSE for more details.
+Lilith is licensed under MIT. See [LICENSE](./LICENSE) for more details.
