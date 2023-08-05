@@ -1,4 +1,24 @@
-# lilith
+
+> [!NOTE],  
+> This is a **HUGE** project, and the original hasn't been updated for a few years.
+>    
+> ... So what *are* my goals with this project?      
+> For the most part, this is being used as a learning experience for myself,     
+> I don't intend to dedicate most of my time to this project for quite some time, 
+> so expect this to stay stale for the time being.
+>
+## 
+Once I am able I intend to do the following:
+
+- [ ] Update the code-base to Crystal v1.10.* (or later)
+- [ ] Rewrite the window manager and:
+  - [ ] Transition it to Wayland <sup>maybe?</sup>
+  - [ ] Allow configuration in lua or another similarly easy to use scripting lang
+- [ ] Write a shell in crystal to support the os with [fish-shell](https://fishshell.com) like features
+
+
+
+## lilith
 
 
 A POSIX-like x86-64 kernel and userspace written in Crystal.
@@ -37,7 +57,6 @@ make rungdb_img
 * Preemptive multitasking!
 * Userspace C library written in Crystal (mostly)
 * A window manager and some graphical programs (terminal emulator, file manager)
-* And much more as I go...
 
 ## License
 
