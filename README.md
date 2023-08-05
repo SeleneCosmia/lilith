@@ -1,5 +1,4 @@
-
-> [!NOTE],  
+## Note:
 > This is a **HUGE** project, and the original hasn't been updated for a few years.
 >    
 > ... So what *are* my goals with this project?      
